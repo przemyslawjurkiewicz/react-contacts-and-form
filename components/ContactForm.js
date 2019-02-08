@@ -1,6 +1,6 @@
 var ContactForm = React.createClass({
     propTypes: {
-        contact: React.propTypes.object.isRequied
+        contact: React.PropTypes.object.isRequired
     },
     render: function () {
         return (
