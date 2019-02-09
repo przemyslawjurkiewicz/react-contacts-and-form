@@ -14,7 +14,7 @@ body {
   align-items: flex-start;
   flex-wrap: wrap;
   flex-direction: row-reverse;
-  }
+}
 
 .contactForm {
   padding: 10px;
@@ -112,7 +112,7 @@ button:hover {
 
 @media (max-width: 767px) {
   .app {
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
     padding: 10px;
